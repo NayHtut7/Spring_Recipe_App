@@ -1,0 +1,14 @@
+INSERT INTO category (title) Values ('Asian');
+INSERT INTO category (title) Values ('American');
+INSERT INTO category (title) Values ('FastFood');
+INSERT INTO category (title) Values ('European');
+INSERT INTO category (title) Values ('Italian');
+INSERT INTO uom (uom) Values ('teaspoon');
+INSERT INTO uom (uom) Values ('tablespoon');
+INSERT INTO uom (uom) Values ('ounce');
+INSERT INTO uom (uom) Values ('gill');
+INSERT INTO uom (uom) Values ('cup');
+INSERT INTO uom (uom) Values ('pint');
+INSERT INTO uom (uom) Values ('quart');
+INSERT INTO uom (uom) Values ('gallon');
+INSERT INTO uom (uom) Values ('pound');
